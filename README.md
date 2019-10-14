@@ -28,7 +28,29 @@ Upon completion of this Pathway, you will be able to:
 4. Applying Machine Learning Algorithms and Libraries
 5. Software Engineering and System Design
 
+## Core Technical Area
+
+Core | Topic| Link
+--- | --- | ---
+**Technical** |  | 
+ -| _Statistics_ | -
+ -| -| [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+ -| -| [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+ -| _Algorithms_| [Algorithms	Data Structures](https://www.coursera.org/learn/data-structures)
+ -| _Linear Algebra_|[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+ -| _Calculus_|[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+ -| _Probability and Statistics_| [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+ -| _Data modelling_| [Data Science: Inference and Modeling](https://www.edx.org/course/data-science-inference)
+ -| _Software Development	Languages include Python, Scala, Java, C++, R, Stata, MATLAB_| -
+
+
+## Other Skills
+System Design	Requirement analysis, version control, testing/documentation  
+non-technical	Communication skills	Excellent verbal/written communication skills 
+Leadership skills	...and a natural curiosity and desire to learn  
+
 Core Topic Area
+
 Resources
 technical	Statistics	[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
