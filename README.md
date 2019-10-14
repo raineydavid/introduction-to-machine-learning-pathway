@@ -19,3 +19,11 @@ Upon completion of this Pathway, you will be able to:
 - [ ] identify necessary tools and frameworks used in Machine Learning.
 - [ ] list core competencies needed to be successful in the field of Machine Learning.
 - [ ] identify jobs and careers in the Machine Learning field.
+
+[5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+
+1. Computer Science Fundamentals and Programming
+2. Probability and Statistics
+3. Data Modeling and Evaluation
+4. Applying Machine Learning Algorithms and Libraries
+5. Software Engineering and System Design
